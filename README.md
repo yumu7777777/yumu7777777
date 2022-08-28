@@ -22,8 +22,8 @@
 
 #  🙋 Hello
 
-# <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-# <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
+# <p>&emsp;&emsp;能力配不上野心，是所有烦扰的根源。这个世界越来越公平，你要想得到，就得学会付出和坚持。每个人都是通过自己的努力，去决定生活的样子。</p>
+# <p>&emsp;&emsp;多亏这些日子还有难过和失落，让我们在一场场身不由己的努力中进化成更好的自己。</p>
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
@@ -184,15 +184,3 @@ Windows                  50 mins             ███████████�
     </td>
   </tr>
 </table>
-
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202111021926704.png"/>
-</div>
