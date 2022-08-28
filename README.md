@@ -27,8 +27,6 @@
 
 #  🙋 Hello
 
-# <p>✍️&nbsp;&nbsp;大家好，我是小孙同学! 目前就读于安徽理工大学地理信息科学专业，热爱计算机科学和IT互联网事业，励志成为一名资深程序员!</p>
-# <p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 # <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 # <p>&emsp;&emsp;我开始得太晚了，但总归不算太迟。春华秋实，努力一定会有收获，一枚学渣正在悄悄蜕变。。。</p>
 
@@ -122,39 +120,6 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br>
-
-<!-- 最近博客和豆瓣动态 -->
-<table align="center">
-<tr>
-<td valign="top">    
-
-### 🤹‍♀️ <a href="https://sunguoqi.com/" target="_blank">Recent Blog</a>
-  
-<!-- START_SECTION:blog -->
-* <a href='https://sunguoqi.com/posts/2022811.html' target='_blank'>冥冥之中，自有注定，但行好事，莫问前程！</a> - 2022-08-11
-* <a href='https://sunguoqi.com/posts/20220225.html' target='_blank'>人生21岁，版本更新日志！</a> - 2022-02-25
-* <a href='https://sunguoqi.com/posts/fiddler.html' target='_blank'>我终于学废用Fiddler抓包了！</a> - 2022-01-24
-* <a href='https://sunguoqi.com/posts/4243.html' target='_blank'>零基础快速上手云服务器</a> - 2022-01-09
-* <a href='https://sunguoqi.com/posts/33414.html' target='_blank'>给GitHub首页添加一个有趣的贪吃蛇小动画</a> - 2022-01-08
-<!-- END_SECTION:blog -->
-  
-</td>
-    
-<td valign="top">
-  
-### 🤾‍♂️ <a href="https://www.douban.com/people/sun0225SUN/" target="_blank">Funny Soul</a>
-
-<!-- START_SECTION:douban -->
-* <a href='https://book.douban.com/subject/35681856/' target='_blank'>读过Python3网络爬虫开发实战 第2版</a> - 2021-12-31
-* <a href='https://book.douban.com/subject/6082808/' target='_blank'>想读百年孤独</a> - 2021-11-28
-* <a href='https://music.douban.com/subject/35624611/' target='_blank'>想听光亮</a> - 2021-11-12
-* <a href='https://book.douban.com/subject/35582002/' target='_blank'>想读我的灵魂骑在纸背上</a> - 2021-11-12
-* <a href='http://movie.douban.com/subject/24529353/' target='_blank'>想看绝地逃亡</a> - 2021-03-07
-<!-- END_SECTION:douban -->
-  
-</td> 
-</tr>
-</table>
 
 
 <!-- wakatime 统计 -->
